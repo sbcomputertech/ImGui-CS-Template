@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImGuiApp", "ImGuiApp\ImGuiApp.csproj", "{48157597-6925-45D0-B603-DBE376090EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48157597-6925-45D0-B603-DBE376090EBE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{48157597-6925-45D0-B603-DBE376090EBE}.Debug|x64.Build.0 = Debug|Any CPU
+		{48157597-6925-45D0-B603-DBE376090EBE}.Release|x64.ActiveCfg = Release|Any CPU
+		{48157597-6925-45D0-B603-DBE376090EBE}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
